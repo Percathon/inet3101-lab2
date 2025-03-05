@@ -5,10 +5,10 @@ Record management: The program offers a record management system which allows us
 
 ## Functionality
 
-Add: The system provides a function for users to create new records which automatically allocates sufficient memory space.
-Delete: Programs erase the last stored record from memory while readjusting the size of allocated space.
-Print: The system shows every record stored in the database through the print records function.
-Exit: The program exits to free all allocated memory in a proper manner.
+The system provides a function for users to create new records which automatically allocates sufficient memory space.
+Programs erase the last stored record from memory while readjusting the size of allocated space.
+The system shows every record stored in the database through the print records function.
+The program exits to free all allocated memory in a proper manner.
 
 ## Design
 Through its menu system users can access the following features from the interfaces.
