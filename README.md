@@ -4,10 +4,11 @@ Dynamic memory allocation: The application performs memory allocation through ma
 Record management: The program offers a record management system which allows users to print the entire record set and display database length information while showing record count.
 
 ## Functionality
-Add a record: Users can add new records by using this option which creates memory space for the new entry.
-Delete a record: Users have the option to accomplish deletion of one record by removing the last entry and rebalancing allocated memory space.
-Print records: The program displays entire database content through its print records function.
-Exit: The program terminates before exiting while it frees all memory allocations properly.
+
+Add: The system provides a function for users to create new records which automatically allocates sufficient memory space.
+Delete: Programs erase the last stored record from memory while readjusting the size of allocated space.
+Print: The system shows every record stored in the database through the print records function.
+Exit: The program exits to free all allocated memory in a proper manner.
 
 ## Design
 Through its menu system users can access the following features from the interfaces.
